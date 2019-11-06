@@ -2,6 +2,7 @@ import smtplib
 
 def welcome_screen():
     print('Welcome to Email_Sender v1.0')
+    
 
 def mail(email_from, password, email_to, subject, body):
     
