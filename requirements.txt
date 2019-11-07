@@ -1,0 +1,2 @@
+smtplib
+a code editor like vscode, vim etc
